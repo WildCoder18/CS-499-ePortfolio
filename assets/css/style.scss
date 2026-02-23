@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Sunset Background */
+body {
+  background: linear-gradient(135deg, #ff7e00, #ffb347);
+}
+
+/* Darker text for readability */
+body, p {
+  color: #2b2b2b;
+}
+
+/* Orange Headers */
+h1, h2, h3 {
+  color: #7a2e00;
+}
+
+/* Orange Links */
+a {
+  color: #cc5500;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ff4500;
+}
