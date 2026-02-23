@@ -1,3 +1,7 @@
+---
+title: Christina M. – Computer Science ePortfolio
+layout: default
+---
 
 # Christina M.
 ## Computer Science ePortfolio
