@@ -3,27 +3,26 @@
 
 @import "{{ site.theme }}";
 
-/* Sunset Background */
-body {
-  background: linear-gradient(135deg, #ff7e00, #ffb347);
+/* Replace Cayman green header gradient */
+.page-header {
+  background: linear-gradient(120deg, #ff6a00, #ff2e00);
 }
 
-/* Darker text for readability */
-body, p {
-  color: #2b2b2b;
-}
-
-/* Orange Headers */
-h1, h2, h3 {
-  color: #7a2e00;
-}
-
-/* Orange Links */
+/* Replace blue links */
 a {
-  color: #cc5500;
-  font-weight: bold;
+  color: #cc3300;
 }
 
 a:hover {
-  color: #ff4500;
+  color: #ff0000;
+}
+
+/* Buttons (if present) */
+.btn {
+  background-color: #ff6a00;
+  border-color: #cc3300;
+}
+
+.btn:hover {
+  background-color: #ff2e00;
 }
