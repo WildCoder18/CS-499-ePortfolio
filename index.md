@@ -21,3 +21,5 @@ Welcome to my CS 499 ePortfolio. This portfolio showcases enhanced artifacts dem
 [View Self-Assessment](self-assessment.md)
 
 ### Code Review Video
+Watch my code review here:
+https://youtu.be/WXbtk7K3E-M
