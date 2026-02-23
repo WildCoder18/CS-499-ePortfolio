@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/style.css">
+
 # Christina M.
 ## Computer Science ePortfolio
 
